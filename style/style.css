@@ -1,0 +1,25 @@
+body {
+    background-image: url("https://www.homestratosphere.com/wp-content/uploads/2019/05/A-beautiful-orchard-jun10.jpg;");
+    background-size: cover;
+}
+#navbar {
+    background-color: black;
+    display: inline;
+    
+    
+}
+nav {
+    color:white;
+    background-color:#eed202;
+    display:inline block;
+    float: left;
+    width: 8%;
+    height: 40%;
+   
+}
+.n {
+    display: block;
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 150%;
+}
